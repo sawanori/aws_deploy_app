@@ -1,0 +1,5 @@
+{
+  "name": "aws_deploy_app",
+  "private": true,
+  "dependencies": {}
+}
